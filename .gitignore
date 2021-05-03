@@ -1,0 +1,5 @@
+src/config.ts
+.vscode
+yarn-error.log
+data/
+node_modules/
